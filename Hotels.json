@@ -1,0 +1,2991 @@
+[
+  {
+    "id": "H001",
+    "HotelName": "Dan Tel Aviv Hotel",
+    "Stars": 3.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 336,
+        "RoomType": "Suite",
+        "PricePerNight": 1100,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 337,
+        "RoomType": "Sea View",
+        "PricePerNight": 1020,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 338,
+        "RoomType": "Standard",
+        "PricePerNight": 570,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 339,
+        "RoomType": "Sea View",
+        "PricePerNight": 980,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 340,
+        "RoomType": "Sea View",
+        "PricePerNight": 1020,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "7a6ec8be-d025-4551-8b07-aee6576e413b",
+        "FirstName": "Noa",
+        "LastName": "Peretz",
+        "Role": "Housekeeping",
+        "Salary": 9500
+      },
+      {
+        "Id": "02fe7aec-1620-4012-be0b-d33c2f24e0a2",
+        "FirstName": "Yuval",
+        "LastName": "Peretz",
+        "Role": "Chef",
+        "Salary": 15500
+      },
+      {
+        "Id": "1ac7481b-77af-4838-ad52-6a98b2c4320a",
+        "FirstName": "Hila",
+        "LastName": "Biton",
+        "Role": "Concierge",
+        "Salary": 13500
+      },
+      {
+        "Id": "44db6e85-a2cc-4015-941c-701ce9bee623",
+        "FirstName": "Amit",
+        "LastName": "Azoulay",
+        "Role": "Accountant",
+        "Salary": 16000
+      },
+      {
+        "Id": "751344b6-f8f5-4257-a9e4-d17dad92f6d9",
+        "FirstName": "Ofir",
+        "LastName": "Mizrahi",
+        "Role": "Receptionist",
+        "Salary": 11000
+      },
+      {
+        "Id": "67354d9a-66da-41c7-b8ac-6f27219516cc",
+        "FirstName": "Noa",
+        "LastName": "Davidi",
+        "Role": "Receptionist",
+        "Salary": 9500
+      }
+    ]
+  },
+  {
+    "id": "H002",
+    "HotelName": "Isrotel King Solomon Eilat",
+    "Stars": 4.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 367,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 368,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 369,
+        "RoomType": "Sea View",
+        "PricePerNight": 1020,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 370,
+        "RoomType": "Garden View",
+        "PricePerNight": 640,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "a18a65af-cf0a-423a-8a96-d4008d502669",
+        "FirstName": "Guy",
+        "LastName": "Davidi",
+        "Role": "Chef",
+        "Salary": 13500
+      },
+      {
+        "Id": "caa1451a-ffd4-4ddc-b633-88d345e0fc14",
+        "FirstName": "Roi",
+        "LastName": "Levi",
+        "Role": "Accountant",
+        "Salary": 16500
+      },
+      {
+        "Id": "1e822821-9bea-4d02-9602-7565068c63f5",
+        "FirstName": "Maya",
+        "LastName": "Davidi",
+        "Role": "Accountant",
+        "Salary": 15500
+      },
+      {
+        "Id": "31a44153-a6b7-4052-b92c-ab25e4a3b3df",
+        "FirstName": "Shahar",
+        "LastName": "Peretz",
+        "Role": "Security",
+        "Salary": 11000
+      },
+      {
+        "Id": "5fe0c807-7565-4569-a5aa-436a586f33ad",
+        "FirstName": "Maya",
+        "LastName": "Rafaeli",
+        "Role": "Receptionist",
+        "Salary": 10500
+      },
+      {
+        "Id": "3c68e825-3023-45b1-a141-99ddc0f6a9cb",
+        "FirstName": "Liron",
+        "LastName": "Suissa",
+        "Role": "Housekeeping",
+        "Salary": 9000
+      },
+      {
+        "Id": "88e99335-af0c-464e-bd69-c1269eba4a79",
+        "FirstName": "Yuval",
+        "LastName": "Mizrahi",
+        "Role": "Chef",
+        "Salary": 15500
+      },
+      {
+        "Id": "0ce63e39-252e-4e60-b80f-d27863a20e47",
+        "FirstName": "Yael",
+        "LastName": "Peretz",
+        "Role": "Spa Therapist",
+        "Salary": 12500
+      },
+      {
+        "Id": "cdd6896f-7457-4931-8ed6-2af2cfa2b435",
+        "FirstName": "Guy",
+        "LastName": "Sasson",
+        "Role": "Receptionist",
+        "Salary": 9500
+      }
+    ]
+  },
+  {
+    "id": "H003",
+    "HotelName": "Herods Vitalis Eilat",
+    "Stars": 3.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 164,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 165,
+        "RoomType": "Standard",
+        "PricePerNight": 570,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 166,
+        "RoomType": "Suite",
+        "PricePerNight": 1220,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 167,
+        "RoomType": "Family",
+        "PricePerNight": 780,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "622ec0bc-8c7e-4946-b0b4-15f496aec5dc",
+        "FirstName": "Daniel",
+        "LastName": "Avraham",
+        "Role": "Concierge",
+        "Salary": 12000
+      },
+      {
+        "Id": "81bc937d-47ab-46b4-94d3-f69235f7eac4",
+        "FirstName": "Eyal",
+        "LastName": "Shimoni",
+        "Role": "Security",
+        "Salary": 11500
+      },
+      {
+        "Id": "1b45cb0c-3b7f-4941-bb31-b6e0b4d2ff90",
+        "FirstName": "Eyal",
+        "LastName": "Rafaeli",
+        "Role": "Maintenance",
+        "Salary": 12000
+      },
+      {
+        "Id": "7fd6629d-9a84-4cde-852b-adba0939a644",
+        "FirstName": "Maya",
+        "LastName": "Levi",
+        "Role": "Chef",
+        "Salary": 15500
+      },
+      {
+        "Id": "a99b2346-1f8b-407a-9a59-43a948283fc8",
+        "FirstName": "Shira",
+        "LastName": "Avraham",
+        "Role": "Receptionist",
+        "Salary": 9500
+      }
+    ]
+  },
+  {
+    "id": "H004",
+    "HotelName": "Crowne Plaza Jerusalem",
+    "Stars": 4.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 196,
+        "RoomType": "Deluxe",
+        "PricePerNight": 770,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 197,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 198,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 199,
+        "RoomType": "Standard",
+        "PricePerNight": 420,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 200,
+        "RoomType": "Sea View",
+        "PricePerNight": 1050,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 201,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "bec5e777-1ca2-4a2c-9572-6e17e80a999a",
+        "FirstName": "Elad",
+        "LastName": "Haddad",
+        "Role": "Chef",
+        "Salary": 15000
+      },
+      {
+        "Id": "9c84d6b7-8815-4a01-839e-b5acee80a062",
+        "FirstName": "Ofir",
+        "LastName": "Biton",
+        "Role": "Manager",
+        "Salary": 21500
+      },
+      {
+        "Id": "c9974641-b9f8-4210-9d99-ca158154b3f6",
+        "FirstName": "Michal",
+        "LastName": "Haddad",
+        "Role": "Housekeeping",
+        "Salary": 10000
+      },
+      {
+        "Id": "f25f18f9-30a9-4789-b1be-e9485ff334b3",
+        "FirstName": "Shani",
+        "LastName": "Rafaeli",
+        "Role": "Manager",
+        "Salary": 23000
+      },
+      {
+        "Id": "269b7594-4fe5-435c-b9f3-c547e89b9c5d",
+        "FirstName": "Liron",
+        "LastName": "Peretz",
+        "Role": "Receptionist",
+        "Salary": 9500
+      },
+      {
+        "Id": "2252376d-09e7-43c6-a4c0-245119c900dc",
+        "FirstName": "Ofir",
+        "LastName": "Peretz",
+        "Role": "Maintenance",
+        "Salary": 11500
+      },
+      {
+        "Id": "50e34aeb-8e46-4f0a-b3ca-b9482132964d",
+        "FirstName": "Elad",
+        "LastName": "Malka",
+        "Role": "Chef",
+        "Salary": 15500
+      }
+    ]
+  },
+  {
+    "id": "H005",
+    "HotelName": "David InterContinental Tel Aviv",
+    "Stars": 5.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 202,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 203,
+        "RoomType": "Suite",
+        "PricePerNight": 1220,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 204,
+        "RoomType": "Suite",
+        "PricePerNight": 1100,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 205,
+        "RoomType": "Garden View",
+        "PricePerNight": 640,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 206,
+        "RoomType": "Suite",
+        "PricePerNight": 1150,
+        "Rating": 3
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "32327d14-3a89-422f-9cd9-47c7cc9d1ab3",
+        "FirstName": "Eitan",
+        "LastName": "Hazan",
+        "Role": "Chef",
+        "Salary": 14500
+      },
+      {
+        "Id": "25da0b3b-5a77-43c4-a2a3-12d847f5eca1",
+        "FirstName": "Eyal",
+        "LastName": "Golan",
+        "Role": "Security",
+        "Salary": 11000
+      },
+      {
+        "Id": "b2319a9f-c8ad-4a10-acb1-a9e0b6aab7f4",
+        "FirstName": "Guy",
+        "LastName": "Raz",
+        "Role": "Spa Therapist",
+        "Salary": 12500
+      },
+      {
+        "Id": "ac609550-2ade-49a5-b3ea-ce5568dc55d4",
+        "FirstName": "Shahar",
+        "LastName": "Suissa",
+        "Role": "Concierge",
+        "Salary": 13000
+      },
+      {
+        "Id": "bd8c15e1-04de-412e-806c-6598cce8a0e2",
+        "FirstName": "Amit",
+        "LastName": "Sasson",
+        "Role": "Housekeeping",
+        "Salary": 8500
+      },
+      {
+        "Id": "c8dbb650-b256-4a0c-a012-d95efdd764e9",
+        "FirstName": "Shani",
+        "LastName": "Biton",
+        "Role": "Accountant",
+        "Salary": 15500
+      },
+      {
+        "Id": "5d6c485a-ed86-4e4b-b281-93cd9f5a6b00",
+        "FirstName": "Michal",
+        "LastName": "Mizrahi",
+        "Role": "Manager",
+        "Salary": 22000
+      },
+      {
+        "Id": "69830964-fd06-4815-b2bf-15a240d38947",
+        "FirstName": "Eitan",
+        "LastName": "Suissa",
+        "Role": "Spa Therapist",
+        "Salary": 11000
+      },
+      {
+        "Id": "a9eb3332-ae44-4301-ab96-d57629993d4e",
+        "FirstName": "Elad",
+        "LastName": "Davidi",
+        "Role": "Waiter",
+        "Salary": 10000
+      },
+      {
+        "Id": "bed9bace-138f-42b7-bb0c-ed9a01dac895",
+        "FirstName": "Liron",
+        "LastName": "Raz",
+        "Role": "Housekeeping",
+        "Salary": 9000
+      }
+    ]
+  },
+  {
+    "id": "H006",
+    "HotelName": "Ramada Netanya",
+    "Stars": 4.5,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 355,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 356,
+        "RoomType": "Suite",
+        "PricePerNight": 1180,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 357,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 358,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 359,
+        "RoomType": "Deluxe",
+        "PricePerNight": 700,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 360,
+        "RoomType": "Deluxe",
+        "PricePerNight": 730,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "d68b0266-59c5-48b1-a427-3977568170fc",
+        "FirstName": "Tamar",
+        "LastName": "Sasson",
+        "Role": "Security",
+        "Salary": 11500
+      },
+      {
+        "Id": "2278a4fe-0d19-4f24-8e02-56400d7a5f46",
+        "FirstName": "Noa",
+        "LastName": "Davidi",
+        "Role": "Security",
+        "Salary": 10000
+      },
+      {
+        "Id": "64296ca2-dc0e-46cb-ace2-235b288ab761",
+        "FirstName": "Yuval",
+        "LastName": "Avraham",
+        "Role": "Chef",
+        "Salary": 14000
+      },
+      {
+        "Id": "fe50dfb3-d8cb-44be-a055-3340baffa542",
+        "FirstName": "Eyal",
+        "LastName": "Barak",
+        "Role": "Manager",
+        "Salary": 22500
+      },
+      {
+        "Id": "4c719deb-625a-473f-aaca-91a2d3e6cc45",
+        "FirstName": "Hila",
+        "LastName": "Shimoni",
+        "Role": "Spa Therapist",
+        "Salary": 11500
+      },
+      {
+        "Id": "ff0e0c23-8b85-45c4-b849-a34175709ff7",
+        "FirstName": "Elad",
+        "LastName": "Peretz",
+        "Role": "Spa Therapist",
+        "Salary": 12000
+      },
+      {
+        "Id": "b75f3de5-bf01-47fa-90f4-6e227858b554",
+        "FirstName": "Yuval",
+        "LastName": "Peretz",
+        "Role": "Concierge",
+        "Salary": 12500
+      },
+      {
+        "Id": "c11b7fc7-5fa7-4686-b6c4-ddf81473925b",
+        "FirstName": "Amit",
+        "LastName": "Azoulay",
+        "Role": "Housekeeping",
+        "Salary": 8500
+      }
+    ]
+  },
+  {
+    "id": "H007",
+    "HotelName": "Leonardo Plaza Ashdod",
+    "Stars": 5.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 126,
+        "RoomType": "Family",
+        "PricePerNight": 930,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 127,
+        "RoomType": "Garden View",
+        "PricePerNight": 680,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 128,
+        "RoomType": "Family",
+        "PricePerNight": 930,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 129,
+        "RoomType": "Standard",
+        "PricePerNight": 420,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 130,
+        "RoomType": "Garden View",
+        "PricePerNight": 680,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 131,
+        "RoomType": "Standard",
+        "PricePerNight": 500,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 132,
+        "RoomType": "Garden View",
+        "PricePerNight": 610,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "7149531d-8d0a-440e-91bd-f2f75a0ba22b",
+        "FirstName": "Daniel",
+        "LastName": "Malka",
+        "Role": "Concierge",
+        "Salary": 13000
+      },
+      {
+        "Id": "c07c8518-024a-4760-8066-55b00d5163d3",
+        "FirstName": "Yuval",
+        "LastName": "Davidi",
+        "Role": "Maintenance",
+        "Salary": 10500
+      },
+      {
+        "Id": "205375cf-0bd6-4412-b3fe-b2cca2462347",
+        "FirstName": "Daniel",
+        "LastName": "Azoulay",
+        "Role": "Maintenance",
+        "Salary": 10500
+      },
+      {
+        "Id": "c529a902-cef4-41f6-a775-db50eb855570",
+        "FirstName": "Daniel",
+        "LastName": "Malka",
+        "Role": "Maintenance",
+        "Salary": 11000
+      },
+      {
+        "Id": "547ea48e-8d3d-4ae4-abbd-52ee81e5efb7",
+        "FirstName": "Uri",
+        "LastName": "Gabbai",
+        "Role": "Manager",
+        "Salary": 22500
+      },
+      {
+        "Id": "c14f9f21-251d-4f2b-92c1-5f606667f6fd",
+        "FirstName": "Michal",
+        "LastName": "Rafaeli",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "1bd19532-24af-43e6-bd35-b5725cf6553a",
+        "FirstName": "Uri",
+        "LastName": "Mizrahi",
+        "Role": "Manager",
+        "Salary": 21500
+      },
+      {
+        "Id": "2510659c-4395-4ebb-8673-0a4107019d66",
+        "FirstName": "Eitan",
+        "LastName": "Suissa",
+        "Role": "Manager",
+        "Salary": 22000
+      },
+      {
+        "Id": "4b52e20e-d88c-4a10-a292-f8bc639d1502",
+        "FirstName": "Noa",
+        "LastName": "Shimoni",
+        "Role": "Receptionist",
+        "Salary": 9000
+      },
+      {
+        "Id": "69ba4b61-6694-4c64-8e98-421573b69b86",
+        "FirstName": "Michal",
+        "LastName": "Raz",
+        "Role": "Receptionist",
+        "Salary": 9000
+      }
+    ]
+  },
+  {
+    "id": "H008",
+    "HotelName": "Ye'arim Spa Resort Ma'ale HaHamisha",
+    "Stars": 5.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 232,
+        "RoomType": "Suite",
+        "PricePerNight": 1220,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 233,
+        "RoomType": "Deluxe",
+        "PricePerNight": 700,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 234,
+        "RoomType": "Garden View",
+        "PricePerNight": 640,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 235,
+        "RoomType": "Sea View",
+        "PricePerNight": 1020,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 236,
+        "RoomType": "Garden View",
+        "PricePerNight": 680,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "7e5004a1-ff74-4fb3-9836-b5f9b7097ff4",
+        "FirstName": "Guy",
+        "LastName": "Gabbai",
+        "Role": "Accountant",
+        "Salary": 16000
+      },
+      {
+        "Id": "05c5ebce-8e46-41cc-a177-fe2d7b15c83f",
+        "FirstName": "Guy",
+        "LastName": "Rafaeli",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "3228dee6-3691-41b2-a69a-e746589928cb",
+        "FirstName": "Amit",
+        "LastName": "Biton",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "b98394e2-5423-428f-8378-89272f948f48",
+        "FirstName": "Eyal",
+        "LastName": "Davidi",
+        "Role": "Housekeeping",
+        "Salary": 8000
+      },
+      {
+        "Id": "35e1c0cf-f2b0-4700-b344-00f16ca1de4d",
+        "FirstName": "Guy",
+        "LastName": "Mizrahi",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "39281a41-ef36-49ef-8ecb-89ca9c979e32",
+        "FirstName": "Michal",
+        "LastName": "Cohen",
+        "Role": "Security",
+        "Salary": 11500
+      },
+      {
+        "Id": "89a6a178-1d3b-42e9-a597-da05e2b7a56f",
+        "FirstName": "Amit",
+        "LastName": "Shimoni",
+        "Role": "Manager",
+        "Salary": 23000
+      }
+    ]
+  },
+  {
+    "id": "H009",
+    "HotelName": "Prima City Tel Aviv",
+    "Stars": 3.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 287,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 288,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 289,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 290,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 291,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 292,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "658ee857-1d14-461e-8603-de8ae54f7dc2",
+        "FirstName": "Liron",
+        "LastName": "Barak",
+        "Role": "Receptionist",
+        "Salary": 10000
+      },
+      {
+        "Id": "93a00316-c71a-4a86-9fca-ce43814e7ff4",
+        "FirstName": "Eyal",
+        "LastName": "BenDavid",
+        "Role": "Maintenance",
+        "Salary": 11500
+      },
+      {
+        "Id": "b9b4a1a2-e0fc-4060-b8f7-05554ce61e31",
+        "FirstName": "Liron",
+        "LastName": "Malka",
+        "Role": "Receptionist",
+        "Salary": 10500
+      },
+      {
+        "Id": "1245cdf4-7a41-4a96-ad7f-cc2e8d1f86cd",
+        "FirstName": "Daniel",
+        "LastName": "Cohen",
+        "Role": "Accountant",
+        "Salary": 15500
+      },
+      {
+        "Id": "f981bc6f-92cb-414b-be32-1d29c7799c35",
+        "FirstName": "Noa",
+        "LastName": "Cohen",
+        "Role": "Concierge",
+        "Salary": 12500
+      },
+      {
+        "Id": "8be5f536-6ba9-4988-bae2-d1a0bbb7b598",
+        "FirstName": "Elad",
+        "LastName": "Malka",
+        "Role": "Security",
+        "Salary": 9500
+      },
+      {
+        "Id": "3e01eaa0-186d-409f-a176-d9911930facc",
+        "FirstName": "Maya",
+        "LastName": "Golan",
+        "Role": "Security",
+        "Salary": 9500
+      },
+      {
+        "Id": "db0fb909-c70c-4804-a6a9-367848764c81",
+        "FirstName": "Michal",
+        "LastName": "Shimoni",
+        "Role": "Security",
+        "Salary": 10500
+      },
+      {
+        "Id": "37209a67-84a0-4147-bc7a-e8a5fc30b08f",
+        "FirstName": "Roi",
+        "LastName": "Mizrahi",
+        "Role": "Maintenance",
+        "Salary": 10500
+      }
+    ]
+  },
+  {
+    "id": "H010",
+    "HotelName": "Orchid Eilat",
+    "Stars": 3.5,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 313,
+        "RoomType": "Suite",
+        "PricePerNight": 1180,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 314,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 315,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 316,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "62ca299c-a15a-43e7-843f-bd1cfc551237",
+        "FirstName": "Liron",
+        "LastName": "Hazan",
+        "Role": "Chef",
+        "Salary": 14000
+      },
+      {
+        "Id": "8f7d7c7f-ec3d-4376-a407-1cc624daef52",
+        "FirstName": "Shani",
+        "LastName": "Azoulay",
+        "Role": "Security",
+        "Salary": 11000
+      },
+      {
+        "Id": "37838fb9-3d3d-406c-99a2-8ea8bbf0affa",
+        "FirstName": "Liron",
+        "LastName": "Peretz",
+        "Role": "Maintenance",
+        "Salary": 11500
+      },
+      {
+        "Id": "8e24e97e-a159-4068-b47b-a62b520b1e25",
+        "FirstName": "Yael",
+        "LastName": "Peretz",
+        "Role": "Accountant",
+        "Salary": 17500
+      },
+      {
+        "Id": "3d13c000-5555-42b2-97e7-da70f3f48468",
+        "FirstName": "Amit",
+        "LastName": "Golan",
+        "Role": "Spa Therapist",
+        "Salary": 12500
+      },
+      {
+        "Id": "6427194b-46e2-45f1-a17d-1abb74ad5ac6",
+        "FirstName": "Elad",
+        "LastName": "Shimoni",
+        "Role": "Concierge",
+        "Salary": 11500
+      },
+      {
+        "Id": "8bdf0ab8-83a6-42a9-81a0-7eea71b03f63",
+        "FirstName": "Uri",
+        "LastName": "Cohen",
+        "Role": "Chef",
+        "Salary": 14500
+      },
+      {
+        "Id": "6fd58503-212a-499a-90a8-db4b3fb7fad6",
+        "FirstName": "Eitan",
+        "LastName": "Gabbai",
+        "Role": "Accountant",
+        "Salary": 16500
+      }
+    ]
+  },
+  {
+    "id": "H011",
+    "HotelName": "Noga Dead Sea",
+    "Stars": 3.5,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 311,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 312,
+        "RoomType": "Garden View",
+        "PricePerNight": 610,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 313,
+        "RoomType": "Suite",
+        "PricePerNight": 1180,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 314,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 315,
+        "RoomType": "Sea View",
+        "PricePerNight": 950,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 316,
+        "RoomType": "Suite",
+        "PricePerNight": 1150,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 317,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "86c289fc-cf71-4809-9c47-5ff6b7836714",
+        "FirstName": "Tamar",
+        "LastName": "Cohen",
+        "Role": "Housekeeping",
+        "Salary": 9000
+      },
+      {
+        "Id": "342b1000-7b7b-4137-83ea-db409cabafa3",
+        "FirstName": "Elad",
+        "LastName": "Davidi",
+        "Role": "Accountant",
+        "Salary": 17000
+      },
+      {
+        "Id": "84579f44-8f07-4935-b190-dd5bc82aadbd",
+        "FirstName": "Amit",
+        "LastName": "Levi",
+        "Role": "Chef",
+        "Salary": 13500
+      },
+      {
+        "Id": "bad4bf9a-28f5-4978-8a03-a694b5feceba",
+        "FirstName": "Ofir",
+        "LastName": "Raz",
+        "Role": "Spa Therapist",
+        "Salary": 13000
+      },
+      {
+        "Id": "29037e49-d80f-4807-96aa-8098412959ce",
+        "FirstName": "Yuval",
+        "LastName": "Barak",
+        "Role": "Maintenance",
+        "Salary": 10500
+      },
+      {
+        "Id": "2345787f-1fa2-4196-9663-4b01ea62eee8",
+        "FirstName": "Maya",
+        "LastName": "Suissa",
+        "Role": "Waiter",
+        "Salary": 9500
+      }
+    ]
+  },
+  {
+    "id": "H012",
+    "HotelName": "King David Jerusalem",
+    "Stars": 3.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 134,
+        "RoomType": "Standard",
+        "PricePerNight": 470,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 135,
+        "RoomType": "Family",
+        "PricePerNight": 900,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 136,
+        "RoomType": "Suite",
+        "PricePerNight": 1180,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 137,
+        "RoomType": "Family",
+        "PricePerNight": 830,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 138,
+        "RoomType": "Family",
+        "PricePerNight": 930,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 139,
+        "RoomType": "Garden View",
+        "PricePerNight": 710,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 140,
+        "RoomType": "Suite",
+        "PricePerNight": 1180,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "6ee65d74-24f0-4282-89b8-c3bf303321d9",
+        "FirstName": "Uri",
+        "LastName": "Biton",
+        "Role": "Manager",
+        "Salary": 22000
+      },
+      {
+        "Id": "abbe37b5-74e9-40a3-b815-7a59695b542e",
+        "FirstName": "Roi",
+        "LastName": "Mizrahi",
+        "Role": "Spa Therapist",
+        "Salary": 12500
+      },
+      {
+        "Id": "701882d8-c21c-4a91-8812-ec2aacad7b0b",
+        "FirstName": "Uri",
+        "LastName": "Shimoni",
+        "Role": "Maintenance",
+        "Salary": 11500
+      },
+      {
+        "Id": "77784e43-1c24-4948-aa79-8cb56311bd7c",
+        "FirstName": "Amit",
+        "LastName": "Davidi",
+        "Role": "Manager",
+        "Salary": 22000
+      },
+      {
+        "Id": "0b4946c4-5ef1-44a7-acc1-fb546c9d4dd2",
+        "FirstName": "Liron",
+        "LastName": "Malka",
+        "Role": "Accountant",
+        "Salary": 17500
+      },
+      {
+        "Id": "16b31df1-935c-4580-b96f-c48e734a21e2",
+        "FirstName": "Ofir",
+        "LastName": "BenDavid",
+        "Role": "Manager",
+        "Salary": 22000
+      },
+      {
+        "Id": "3967af02-16cc-4b7a-82ee-f9e826efb8f1",
+        "FirstName": "Roi",
+        "LastName": "Haddad",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "2fe17ae8-f588-49bb-b164-60bf68a69792",
+        "FirstName": "Yael",
+        "LastName": "BenDavid",
+        "Role": "Housekeeping",
+        "Salary": 9500
+      },
+      {
+        "Id": "b4c53057-f135-436f-9243-8851a5973e21",
+        "FirstName": "Roi",
+        "LastName": "Peretz",
+        "Role": "Concierge",
+        "Salary": 11500
+      }
+    ]
+  },
+  {
+    "id": "H013",
+    "HotelName": "The Setai Tel Aviv",
+    "Stars": 3.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 208,
+        "RoomType": "Suite",
+        "PricePerNight": 1100,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 209,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 210,
+        "RoomType": "Sea View",
+        "PricePerNight": 980,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 211,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 212,
+        "RoomType": "Standard",
+        "PricePerNight": 470,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 213,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "afe41c86-d2b0-427c-a791-cb9cdc33485f",
+        "FirstName": "Eyal",
+        "LastName": "Rafaeli",
+        "Role": "Maintenance",
+        "Salary": 10500
+      },
+      {
+        "Id": "017a1da4-faac-4568-9177-d7a99c765e88",
+        "FirstName": "Amit",
+        "LastName": "Haddad",
+        "Role": "Housekeeping",
+        "Salary": 9000
+      },
+      {
+        "Id": "52be886c-d43a-4381-b0ab-7f9cd77287fd",
+        "FirstName": "Uri",
+        "LastName": "Golan",
+        "Role": "Housekeeping",
+        "Salary": 8500
+      },
+      {
+        "Id": "28a81266-f2ea-4ef2-b85d-d67313dbeb94",
+        "FirstName": "Roi",
+        "LastName": "Hazan",
+        "Role": "Accountant",
+        "Salary": 17000
+      },
+      {
+        "Id": "761d6874-3ccb-4d31-9dd1-553aad41be2f",
+        "FirstName": "Shahar",
+        "LastName": "Gabbai",
+        "Role": "Maintenance",
+        "Salary": 10500
+      },
+      {
+        "Id": "5dda56e5-62d0-4653-b1ff-dd5891da02c2",
+        "FirstName": "Liron",
+        "LastName": "Raz",
+        "Role": "Manager",
+        "Salary": 22500
+      },
+      {
+        "Id": "e221cdf8-8221-4697-9750-e0b1f1b86fa0",
+        "FirstName": "Shani",
+        "LastName": "Rafaeli",
+        "Role": "Waiter",
+        "Salary": 10500
+      },
+      {
+        "Id": "41536563-0117-4570-8137-e838847834c0",
+        "FirstName": "Daniel",
+        "LastName": "Suissa",
+        "Role": "Receptionist",
+        "Salary": 9500
+      },
+      {
+        "Id": "65337362-37a0-46eb-a267-5085e45ece0d",
+        "FirstName": "Michal",
+        "LastName": "Shimoni",
+        "Role": "Security",
+        "Salary": 10000
+      },
+      {
+        "Id": "650f42f5-7864-42df-aa67-25d400a5f110",
+        "FirstName": "Liron",
+        "LastName": "Golan",
+        "Role": "Chef",
+        "Salary": 15500
+      }
+    ]
+  },
+  {
+    "id": "H014",
+    "HotelName": "The Norman Tel Aviv",
+    "Stars": 5.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 184,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 185,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 186,
+        "RoomType": "Suite",
+        "PricePerNight": 1220,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 187,
+        "RoomType": "Deluxe",
+        "PricePerNight": 770,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 188,
+        "RoomType": "Deluxe",
+        "PricePerNight": 770,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 189,
+        "RoomType": "Standard",
+        "PricePerNight": 420,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "610151fb-b66a-44b8-97c3-5fb000adceaa",
+        "FirstName": "Noa",
+        "LastName": "Rafaeli",
+        "Role": "Receptionist",
+        "Salary": 10000
+      },
+      {
+        "Id": "902f6ea9-cac2-4f55-a5b9-6742ef413091",
+        "FirstName": "Shahar",
+        "LastName": "Golan",
+        "Role": "Security",
+        "Salary": 10000
+      },
+      {
+        "Id": "0f7f1c8a-12eb-43cb-b336-6f0e76de8797",
+        "FirstName": "Roi",
+        "LastName": "Haddad",
+        "Role": "Security",
+        "Salary": 11000
+      },
+      {
+        "Id": "dcd9b4db-b8b5-436d-92a9-6fb68f38f67e",
+        "FirstName": "Shahar",
+        "LastName": "Suissa",
+        "Role": "Accountant",
+        "Salary": 16500
+      },
+      {
+        "Id": "56a49801-87b0-4a13-af14-f987d8f71cb1",
+        "FirstName": "Amit",
+        "LastName": "Suissa",
+        "Role": "Concierge",
+        "Salary": 11500
+      },
+      {
+        "Id": "c7bd7d9e-302d-4dba-8d91-3a7ae4a900d5",
+        "FirstName": "Roi",
+        "LastName": "Raz",
+        "Role": "Maintenance",
+        "Salary": 11000
+      },
+      {
+        "Id": "1dc38be1-513f-4bbe-aa73-0bd11756e645",
+        "FirstName": "Maya",
+        "LastName": "Malka",
+        "Role": "Waiter",
+        "Salary": 10000
+      },
+      {
+        "Id": "850549c1-e92e-4861-8778-74aa1081aa94",
+        "FirstName": "Amit",
+        "LastName": "Suissa",
+        "Role": "Receptionist",
+        "Salary": 11000
+      },
+      {
+        "Id": "10744d92-a14f-4480-b129-36ac3755915a",
+        "FirstName": "Shira",
+        "LastName": "Cohen",
+        "Role": "Spa Therapist",
+        "Salary": 12500
+      },
+      {
+        "Id": "40bd2e18-6c35-43f2-9df3-33630e344fad",
+        "FirstName": "Uri",
+        "LastName": "Cohen",
+        "Role": "Accountant",
+        "Salary": 16500
+      }
+    ]
+  },
+  {
+    "id": "H015",
+    "HotelName": "Daniel Herzliya",
+    "Stars": 3.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 364,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 365,
+        "RoomType": "Family",
+        "PricePerNight": 900,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 366,
+        "RoomType": "Deluxe",
+        "PricePerNight": 700,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 367,
+        "RoomType": "Family",
+        "PricePerNight": 930,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 368,
+        "RoomType": "Standard",
+        "PricePerNight": 470,
+        "Rating": 3
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "f6d79290-4b7a-4bd8-9a19-8743dd9df9d5",
+        "FirstName": "Elad",
+        "LastName": "Mizrahi",
+        "Role": "Housekeeping",
+        "Salary": 8500
+      },
+      {
+        "Id": "a43d3bb2-872a-4589-9fdf-119882badc37",
+        "FirstName": "Yael",
+        "LastName": "Azoulay",
+        "Role": "Waiter",
+        "Salary": 9500
+      },
+      {
+        "Id": "c2cb0058-7c83-435a-a2a6-477c0b2581d8",
+        "FirstName": "Amit",
+        "LastName": "Cohen",
+        "Role": "Waiter",
+        "Salary": 9500
+      },
+      {
+        "Id": "b0e00721-0231-481c-ab16-8f71ef820e1e",
+        "FirstName": "Noa",
+        "LastName": "Gabbai",
+        "Role": "Housekeeping",
+        "Salary": 8000
+      },
+      {
+        "Id": "b65c400f-89e6-4b9b-8165-4eb322db24f8",
+        "FirstName": "Uri",
+        "LastName": "Raz",
+        "Role": "Housekeeping",
+        "Salary": 10000
+      },
+      {
+        "Id": "8e25cc79-b2c3-4249-b8aa-ca01c08e27d8",
+        "FirstName": "Tamar",
+        "LastName": "Azoulay",
+        "Role": "Accountant",
+        "Salary": 15500
+      },
+      {
+        "Id": "02abd7b3-032d-4bf7-85ef-34c2ce6f35cf",
+        "FirstName": "Elad",
+        "LastName": "Rafaeli",
+        "Role": "Manager",
+        "Salary": 21500
+      },
+      {
+        "Id": "e2e87e56-ea2b-457e-91a6-1a81f805c685",
+        "FirstName": "Michal",
+        "LastName": "Avraham",
+        "Role": "Maintenance",
+        "Salary": 12500
+      },
+      {
+        "Id": "754eb758-ad94-4cc6-bd90-8591bf73e4ef",
+        "FirstName": "Shani",
+        "LastName": "Golan",
+        "Role": "Manager",
+        "Salary": 23500
+      }
+    ]
+  },
+  {
+    "id": "H016",
+    "HotelName": "Ruth Safed Hotel",
+    "Stars": 4.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 243,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 244,
+        "RoomType": "Standard",
+        "PricePerNight": 470,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 245,
+        "RoomType": "Sea View",
+        "PricePerNight": 950,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 246,
+        "RoomType": "Family",
+        "PricePerNight": 900,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "a5ecd94e-56c9-49df-b486-29fd78bc6104",
+        "FirstName": "Shani",
+        "LastName": "Rafaeli",
+        "Role": "Receptionist",
+        "Salary": 10000
+      },
+      {
+        "Id": "2d97429e-118d-4e19-a76a-2e50ce95482d",
+        "FirstName": "Guy",
+        "LastName": "Azoulay",
+        "Role": "Concierge",
+        "Salary": 11500
+      },
+      {
+        "Id": "f2649b5d-dca7-4a98-a4e7-5b252eeff273",
+        "FirstName": "Shani",
+        "LastName": "Peretz",
+        "Role": "Receptionist",
+        "Salary": 10500
+      },
+      {
+        "Id": "13110ffa-3ff8-42e1-a566-79dcfad85568",
+        "FirstName": "Liron",
+        "LastName": "BenDavid",
+        "Role": "Manager",
+        "Salary": 22000
+      },
+      {
+        "Id": "2abfce64-5dd3-49e1-8eae-c3e67175b604",
+        "FirstName": "Ofir",
+        "LastName": "Rafaeli",
+        "Role": "Housekeeping",
+        "Salary": 10000
+      },
+      {
+        "Id": "f6da64c2-d029-4c62-8037-ea4291a402b6",
+        "FirstName": "Yuval",
+        "LastName": "Sasson",
+        "Role": "Accountant",
+        "Salary": 16500
+      },
+      {
+        "Id": "7ee0519d-3b61-47f4-9c6c-4a0a91df35c2",
+        "FirstName": "Ofir",
+        "LastName": "Avraham",
+        "Role": "Chef",
+        "Salary": 13500
+      },
+      {
+        "Id": "c6a622f1-b598-440f-bedc-158eda28800e",
+        "FirstName": "Tamar",
+        "LastName": "Mizrahi",
+        "Role": "Housekeeping",
+        "Salary": 9500
+      },
+      {
+        "Id": "b8ee1e31-a60d-4ed7-a9ab-b15322087b00",
+        "FirstName": "Noa",
+        "LastName": "Sasson",
+        "Role": "Receptionist",
+        "Salary": 10500
+      },
+      {
+        "Id": "178ddf17-2655-4a4a-b503-83f57301ad1c",
+        "FirstName": "Maya",
+        "LastName": "Biton",
+        "Role": "Manager",
+        "Salary": 22500
+      }
+    ]
+  },
+  {
+    "id": "H017",
+    "HotelName": "Mitzpe Hayamim Rosh Pina",
+    "Stars": 3.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 122,
+        "RoomType": "Suite",
+        "PricePerNight": 1220,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 123,
+        "RoomType": "Deluxe",
+        "PricePerNight": 700,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 124,
+        "RoomType": "Suite",
+        "PricePerNight": 1150,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 125,
+        "RoomType": "Standard",
+        "PricePerNight": 420,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "147ea39f-0c05-46e4-bd68-b488755c84cd",
+        "FirstName": "Michal",
+        "LastName": "Cohen",
+        "Role": "Maintenance",
+        "Salary": 11000
+      },
+      {
+        "Id": "9ba5354d-e8a5-4843-8483-343d1dca2101",
+        "FirstName": "Eyal",
+        "LastName": "Avraham",
+        "Role": "Waiter",
+        "Salary": 9500
+      },
+      {
+        "Id": "e305c7d1-c072-4fbc-8229-e595c52eeec4",
+        "FirstName": "Shahar",
+        "LastName": "Sasson",
+        "Role": "Chef",
+        "Salary": 15500
+      },
+      {
+        "Id": "aef72f1f-cbc7-4341-82aa-46a3e64d2bf5",
+        "FirstName": "Uri",
+        "LastName": "Barak",
+        "Role": "Security",
+        "Salary": 11500
+      },
+      {
+        "Id": "8aa9535d-2ffe-4d33-8fe4-8bf6d2aa4adc",
+        "FirstName": "Michal",
+        "LastName": "Barak",
+        "Role": "Concierge",
+        "Salary": 13000
+      },
+      {
+        "Id": "ff6cf485-7705-48f4-b286-45fb1f7b341d",
+        "FirstName": "Yael",
+        "LastName": "Suissa",
+        "Role": "Housekeeping",
+        "Salary": 9000
+      },
+      {
+        "Id": "87988c38-c2ac-4591-ab3f-f4ecf5c3cd2f",
+        "FirstName": "Yuval",
+        "LastName": "Haddad",
+        "Role": "Maintenance",
+        "Salary": 11500
+      },
+      {
+        "Id": "258758ee-1e4c-48b0-9106-2f134c5b0aab",
+        "FirstName": "Hila",
+        "LastName": "Rafaeli",
+        "Role": "Housekeeping",
+        "Salary": 10000
+      }
+    ]
+  },
+  {
+    "id": "H018",
+    "HotelName": "Rimonim Palm Beach Acre",
+    "Stars": 3.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 105,
+        "RoomType": "Garden View",
+        "PricePerNight": 610,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 106,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 107,
+        "RoomType": "Garden View",
+        "PricePerNight": 640,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 108,
+        "RoomType": "Family",
+        "PricePerNight": 900,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 109,
+        "RoomType": "Standard",
+        "PricePerNight": 570,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 110,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 111,
+        "RoomType": "Garden View",
+        "PricePerNight": 680,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "39085824-e2db-4986-9e45-6f6a71d0fd5b",
+        "FirstName": "Noa",
+        "LastName": "Peretz",
+        "Role": "Receptionist",
+        "Salary": 9500
+      },
+      {
+        "Id": "4663d381-5099-4c5d-a1c5-9a5e2403f92e",
+        "FirstName": "Yael",
+        "LastName": "Hazan",
+        "Role": "Maintenance",
+        "Salary": 12500
+      },
+      {
+        "Id": "ad4d7250-beb4-46b1-b4b1-79d4fe95db6c",
+        "FirstName": "Tamar",
+        "LastName": "Avraham",
+        "Role": "Housekeeping",
+        "Salary": 10000
+      },
+      {
+        "Id": "4b752f53-c68a-4e6e-994d-cddc812a0bb8",
+        "FirstName": "Maya",
+        "LastName": "BenDavid",
+        "Role": "Housekeeping",
+        "Salary": 10000
+      },
+      {
+        "Id": "a6294be6-d8ec-45fb-9340-7223a1ff037d",
+        "FirstName": "Daniel",
+        "LastName": "Cohen",
+        "Role": "Chef",
+        "Salary": 15000
+      },
+      {
+        "Id": "98839263-e86a-4e7c-8f16-61da899f0e8e",
+        "FirstName": "Maya",
+        "LastName": "Shimoni",
+        "Role": "Chef",
+        "Salary": 15500
+      },
+      {
+        "Id": "7d259a83-a6ff-40de-9dcd-67651b75bad1",
+        "FirstName": "Shira",
+        "LastName": "BenDavid",
+        "Role": "Receptionist",
+        "Salary": 9000
+      },
+      {
+        "Id": "f071973a-0699-4e8c-ad46-da8108b6ec30",
+        "FirstName": "Uri",
+        "LastName": "Peretz",
+        "Role": "Chef",
+        "Salary": 14500
+      },
+      {
+        "Id": "821ec33d-f570-4cd3-ad9f-e7048ef1d5b9",
+        "FirstName": "Eyal",
+        "LastName": "Barak",
+        "Role": "Housekeeping",
+        "Salary": 8000
+      }
+    ]
+  },
+  {
+    "id": "H019",
+    "HotelName": "Leonardo Club Dead Sea",
+    "Stars": 4.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 365,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 366,
+        "RoomType": "Sea View",
+        "PricePerNight": 1050,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 367,
+        "RoomType": "Sea View",
+        "PricePerNight": 950,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 368,
+        "RoomType": "Standard",
+        "PricePerNight": 500,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 369,
+        "RoomType": "Suite",
+        "PricePerNight": 1250,
+        "Rating": 3
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "eecafb80-f1ea-46b5-a6db-8ef3aa08039b",
+        "FirstName": "Liron",
+        "LastName": "Shimoni",
+        "Role": "Chef",
+        "Salary": 13500
+      },
+      {
+        "Id": "68debd90-09ad-4ea3-8ac2-4675b3fdbacb",
+        "FirstName": "Uri",
+        "LastName": "Sasson",
+        "Role": "Housekeeping",
+        "Salary": 9500
+      },
+      {
+        "Id": "12e79a3f-b880-4f08-9bbd-dc17af286b53",
+        "FirstName": "Shira",
+        "LastName": "Peretz",
+        "Role": "Accountant",
+        "Salary": 15500
+      },
+      {
+        "Id": "a95e8b31-1d02-405a-bb0e-c8e9eb4fb4e3",
+        "FirstName": "Amit",
+        "LastName": "Levi",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "4c604524-6fa6-412d-833a-7212930777c8",
+        "FirstName": "Shani",
+        "LastName": "Haddad",
+        "Role": "Housekeeping",
+        "Salary": 8000
+      },
+      {
+        "Id": "eaab4b34-6c90-4d65-a506-b90b16e034a5",
+        "FirstName": "Noa",
+        "LastName": "Malka",
+        "Role": "Waiter",
+        "Salary": 9000
+      },
+      {
+        "Id": "c5922817-0241-490c-b52f-bf305b46d20f",
+        "FirstName": "Noa",
+        "LastName": "Raz",
+        "Role": "Chef",
+        "Salary": 14500
+      },
+      {
+        "Id": "e583e766-d472-46f2-b4b8-585e46fa46ba",
+        "FirstName": "Amit",
+        "LastName": "Malka",
+        "Role": "Maintenance",
+        "Salary": 11000
+      },
+      {
+        "Id": "01f4077b-1f0b-4f3f-b232-153309d57602",
+        "FirstName": "Daniel",
+        "LastName": "Rafaeli",
+        "Role": "Manager",
+        "Salary": 23500
+      }
+    ]
+  },
+  {
+    "id": "H020",
+    "HotelName": "Golden Crown Nazareth",
+    "Stars": 4.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 378,
+        "RoomType": "Deluxe",
+        "PricePerNight": 770,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 379,
+        "RoomType": "Standard",
+        "PricePerNight": 500,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 380,
+        "RoomType": "Family",
+        "PricePerNight": 930,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 381,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 382,
+        "RoomType": "Family",
+        "PricePerNight": 900,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "8e7caee2-6d6d-4186-90e2-49cfafa69090",
+        "FirstName": "Michal",
+        "LastName": "Peretz",
+        "Role": "Chef",
+        "Salary": 15000
+      },
+      {
+        "Id": "e0dbd86e-bbb6-4f0b-922d-31b4691d136c",
+        "FirstName": "Maya",
+        "LastName": "Levi",
+        "Role": "Housekeeping",
+        "Salary": 9500
+      },
+      {
+        "Id": "1bf8c2e7-e8a0-4920-b516-83fe00a43d7c",
+        "FirstName": "Yael",
+        "LastName": "Gabbai",
+        "Role": "Receptionist",
+        "Salary": 10500
+      },
+      {
+        "Id": "10d6093e-9432-4880-b306-d52245513d4e",
+        "FirstName": "Eyal",
+        "LastName": "Levi",
+        "Role": "Spa Therapist",
+        "Salary": 13000
+      },
+      {
+        "Id": "130150b9-c688-42f9-84d6-f29c3d29c6c9",
+        "FirstName": "Guy",
+        "LastName": "Gabbai",
+        "Role": "Receptionist",
+        "Salary": 10000
+      },
+      {
+        "Id": "e06b9bbd-69d4-443e-a044-db5bfc22733f",
+        "FirstName": "Shahar",
+        "LastName": "BenDavid",
+        "Role": "Manager",
+        "Salary": 23000
+      },
+      {
+        "Id": "ac189fdc-bf59-41bc-95a1-756fddcded63",
+        "FirstName": "Shira",
+        "LastName": "Barak",
+        "Role": "Security",
+        "Salary": 11500
+      }
+    ]
+  },
+  {
+    "id": "H021",
+    "HotelName": "Ritz Haifa",
+    "Stars": 5.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 276,
+        "RoomType": "Garden View",
+        "PricePerNight": 640,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 277,
+        "RoomType": "Standard",
+        "PricePerNight": 470,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 278,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 279,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 280,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 281,
+        "RoomType": "Standard",
+        "PricePerNight": 470,
+        "Rating": 3
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "d06025ea-4a9b-4290-b3a4-59553bd5c177",
+        "FirstName": "Shani",
+        "LastName": "Cohen",
+        "Role": "Receptionist",
+        "Salary": 11000
+      },
+      {
+        "Id": "f62b247f-d4b2-44c4-b242-122edf8794ec",
+        "FirstName": "Shira",
+        "LastName": "Golan",
+        "Role": "Receptionist",
+        "Salary": 10500
+      },
+      {
+        "Id": "51d8736d-6c0a-456e-bdce-929d6bd658c1",
+        "FirstName": "Liron",
+        "LastName": "Avraham",
+        "Role": "Receptionist",
+        "Salary": 10000
+      },
+      {
+        "Id": "cac054dd-42fb-47ea-8dbd-214b1bc13ed1",
+        "FirstName": "Eyal",
+        "LastName": "Mizrahi",
+        "Role": "Security",
+        "Salary": 10500
+      },
+      {
+        "Id": "af9f20c5-5c33-47dd-aa54-63fb458c936a",
+        "FirstName": "Daniel",
+        "LastName": "Avraham",
+        "Role": "Receptionist",
+        "Salary": 10500
+      }
+    ]
+  },
+  {
+    "id": "H022",
+    "HotelName": "Hof Gai Tiberias",
+    "Stars": 4.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 246,
+        "RoomType": "Garden View",
+        "PricePerNight": 560,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 247,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 248,
+        "RoomType": "Suite",
+        "PricePerNight": 1180,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 249,
+        "RoomType": "Deluxe",
+        "PricePerNight": 770,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "b6048d14-9db0-41b5-a5de-9ce5e836adc3",
+        "FirstName": "Elad",
+        "LastName": "BenDavid",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "71830262-fe65-40ff-8406-bc5aa30996b1",
+        "FirstName": "Shani",
+        "LastName": "Sasson",
+        "Role": "Security",
+        "Salary": 10000
+      },
+      {
+        "Id": "eb99be6c-56d4-41e8-ad95-5482633f60cc",
+        "FirstName": "Roi",
+        "LastName": "Azoulay",
+        "Role": "Security",
+        "Salary": 9500
+      },
+      {
+        "Id": "c640e373-cd59-45f0-a67f-20b18de1ddbf",
+        "FirstName": "Liron",
+        "LastName": "Haddad",
+        "Role": "Manager",
+        "Salary": 23500
+      },
+      {
+        "Id": "06d66565-8370-42b7-9b8f-0ee76f713bf7",
+        "FirstName": "Shahar",
+        "LastName": "Biton",
+        "Role": "Chef",
+        "Salary": 15000
+      },
+      {
+        "Id": "0c8a5992-7ca3-4c3f-b9ed-dbd825e1e7eb",
+        "FirstName": "Hila",
+        "LastName": "Barak",
+        "Role": "Maintenance",
+        "Salary": 10500
+      },
+      {
+        "Id": "1deacd64-0754-4d80-941d-53a245a61b76",
+        "FirstName": "Liron",
+        "LastName": "Levi",
+        "Role": "Housekeeping",
+        "Salary": 8000
+      },
+      {
+        "Id": "1810d363-c74a-4683-aff0-2fe7737f3ce8",
+        "FirstName": "Yael",
+        "LastName": "Hazan",
+        "Role": "Chef",
+        "Salary": 14500
+      },
+      {
+        "Id": "f4ea822a-40c0-4c15-88a1-033ec5ae7025",
+        "FirstName": "Michal",
+        "LastName": "Golan",
+        "Role": "Concierge",
+        "Salary": 11500
+      }
+    ]
+  },
+  {
+    "id": "H023",
+    "HotelName": "Asienda in the Forest Ma'alot",
+    "Stars": 4.0,
+    "HasPool": false,
+    "Rooms": [
+      {
+        "RoomNumber": 111,
+        "RoomType": "Suite",
+        "PricePerNight": 1220,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 112,
+        "RoomType": "Garden View",
+        "PricePerNight": 610,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 113,
+        "RoomType": "Deluxe",
+        "PricePerNight": 700,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 114,
+        "RoomType": "Sea View",
+        "PricePerNight": 1020,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 115,
+        "RoomType": "Sea View",
+        "PricePerNight": 1050,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 116,
+        "RoomType": "Sea View",
+        "PricePerNight": 1020,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "01ea4e6b-01de-42af-a418-e1717b4a0d54",
+        "FirstName": "Elad",
+        "LastName": "Hazan",
+        "Role": "Maintenance",
+        "Salary": 10500
+      },
+      {
+        "Id": "4a14f3ea-d11b-40ae-a65c-428e7cc5fad5",
+        "FirstName": "Elad",
+        "LastName": "Barak",
+        "Role": "Spa Therapist",
+        "Salary": 12500
+      },
+      {
+        "Id": "6f111c58-739a-4a82-981b-3112d3e4e255",
+        "FirstName": "Uri",
+        "LastName": "Cohen",
+        "Role": "Receptionist",
+        "Salary": 10000
+      },
+      {
+        "Id": "8800b351-3e56-4bd9-b7a0-f9bae1300eaf",
+        "FirstName": "Roi",
+        "LastName": "Peretz",
+        "Role": "Manager",
+        "Salary": 21500
+      },
+      {
+        "Id": "b000ab9c-b688-4069-949f-839f64be6a5d",
+        "FirstName": "Shahar",
+        "LastName": "Golan",
+        "Role": "Housekeeping",
+        "Salary": 9000
+      },
+      {
+        "Id": "d907902c-10c9-4009-9e81-0a09d4173542",
+        "FirstName": "Hila",
+        "LastName": "Azoulay",
+        "Role": "Housekeeping",
+        "Salary": 8500
+      },
+      {
+        "Id": "a7486d46-9e1d-433c-a531-b9b62310d039",
+        "FirstName": "Eitan",
+        "LastName": "Golan",
+        "Role": "Maintenance",
+        "Salary": 12000
+      },
+      {
+        "Id": "450a9c69-417f-405a-8104-faaa82a6649d",
+        "FirstName": "Roi",
+        "LastName": "Golan",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "0a3ddbeb-8a3f-41e9-8014-904972d19de9",
+        "FirstName": "Daniel",
+        "LastName": "Hazan",
+        "Role": "Accountant",
+        "Salary": 17500
+      }
+    ]
+  },
+  {
+    "id": "H024",
+    "HotelName": "Atlas Bat Yam",
+    "Stars": 4.5,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 216,
+        "RoomType": "Suite",
+        "PricePerNight": 1100,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 217,
+        "RoomType": "Standard",
+        "PricePerNight": 420,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 218,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 219,
+        "RoomType": "Garden View",
+        "PricePerNight": 680,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 220,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 221,
+        "RoomType": "Standard",
+        "PricePerNight": 500,
+        "Rating": 3
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "5b26ba7a-c758-4e8e-a947-6eed86396954",
+        "FirstName": "Yuval",
+        "LastName": "Raz",
+        "Role": "Security",
+        "Salary": 10500
+      },
+      {
+        "Id": "a709cbb6-e9da-4312-bbfd-fb0ad4a2027d",
+        "FirstName": "Tamar",
+        "LastName": "Azoulay",
+        "Role": "Maintenance",
+        "Salary": 12000
+      },
+      {
+        "Id": "3fd54a99-b708-49d6-acb6-d7fbadaaf709",
+        "FirstName": "Amit",
+        "LastName": "Avraham",
+        "Role": "Chef",
+        "Salary": 15500
+      },
+      {
+        "Id": "15260f25-f248-4e2d-997a-0b74f9dfb824",
+        "FirstName": "Eitan",
+        "LastName": "Davidi",
+        "Role": "Maintenance",
+        "Salary": 12000
+      },
+      {
+        "Id": "539d795a-254e-4659-bf36-37bc7a7a5f53",
+        "FirstName": "Roi",
+        "LastName": "Levi",
+        "Role": "Receptionist",
+        "Salary": 9000
+      },
+      {
+        "Id": "433da4fe-617b-43a9-9a0a-a7780d07e1ec",
+        "FirstName": "Michal",
+        "LastName": "Golan",
+        "Role": "Maintenance",
+        "Salary": 11000
+      },
+      {
+        "Id": "35a0e868-5164-49d2-8839-8a4ffede8651",
+        "FirstName": "Daniel",
+        "LastName": "Mizrahi",
+        "Role": "Manager",
+        "Salary": 23000
+      }
+    ]
+  },
+  {
+    "id": "H025",
+    "HotelName": "Publica Herzliya",
+    "Stars": 3.5,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 279,
+        "RoomType": "Deluxe",
+        "PricePerNight": 770,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 280,
+        "RoomType": "Family",
+        "PricePerNight": 930,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 281,
+        "RoomType": "Deluxe",
+        "PricePerNight": 730,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 282,
+        "RoomType": "Family",
+        "PricePerNight": 930,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 283,
+        "RoomType": "Garden View",
+        "PricePerNight": 710,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 284,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 4
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "343600c2-6fe1-44d1-9a1a-916bd44853f9",
+        "FirstName": "Shahar",
+        "LastName": "Barak",
+        "Role": "Waiter",
+        "Salary": 10000
+      },
+      {
+        "Id": "bb487bde-c244-438f-80a3-e02378aadedb",
+        "FirstName": "Liron",
+        "LastName": "Malka",
+        "Role": "Maintenance",
+        "Salary": 11500
+      },
+      {
+        "Id": "0f4dd379-3d76-4e58-b2e4-63e3551a063a",
+        "FirstName": "Maya",
+        "LastName": "Rafaeli",
+        "Role": "Receptionist",
+        "Salary": 9000
+      },
+      {
+        "Id": "ca3574ac-6c96-4bbf-802b-f96c564e7345",
+        "FirstName": "Guy",
+        "LastName": "Golan",
+        "Role": "Receptionist",
+        "Salary": 10500
+      },
+      {
+        "Id": "66068578-7408-4949-bfea-36cc5a121a5b",
+        "FirstName": "Noa",
+        "LastName": "Gabbai",
+        "Role": "Security",
+        "Salary": 10500
+      },
+      {
+        "Id": "5df3e500-ebdf-496d-8c5f-d633abc1b421",
+        "FirstName": "Uri",
+        "LastName": "Rafaeli",
+        "Role": "Maintenance",
+        "Salary": 11000
+      },
+      {
+        "Id": "9a902221-ae6c-4755-b0f5-feed8ea302be",
+        "FirstName": "Shira",
+        "LastName": "Haddad",
+        "Role": "Security",
+        "Salary": 11500
+      },
+      {
+        "Id": "eb5d9b80-ce60-4903-a745-44107f2f3db3",
+        "FirstName": "Elad",
+        "LastName": "Golan",
+        "Role": "Concierge",
+        "Salary": 12000
+      },
+      {
+        "Id": "be84acd7-f78b-41a5-9204-5a4524670b81",
+        "FirstName": "Yael",
+        "LastName": "Shimoni",
+        "Role": "Accountant",
+        "Salary": 17000
+      }
+    ]
+  },
+  {
+    "id": "H026",
+    "HotelName": "Canaan Spa Safed",
+    "Stars": 4.5,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 162,
+        "RoomType": "Deluxe",
+        "PricePerNight": 800,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 163,
+        "RoomType": "Deluxe",
+        "PricePerNight": 650,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 164,
+        "RoomType": "Standard",
+        "PricePerNight": 420,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 165,
+        "RoomType": "Suite",
+        "PricePerNight": 1250,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 166,
+        "RoomType": "Family",
+        "PricePerNight": 830,
+        "Rating": 3
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "a88bd432-9f30-432a-9909-047b388d646b",
+        "FirstName": "Yuval",
+        "LastName": "Hazan",
+        "Role": "Spa Therapist",
+        "Salary": 12000
+      },
+      {
+        "Id": "7511bcc6-e251-488a-b6e8-a6bcd678fbd8",
+        "FirstName": "Ofir",
+        "LastName": "BenDavid",
+        "Role": "Spa Therapist",
+        "Salary": 13000
+      },
+      {
+        "Id": "ae94e837-75f0-48e7-bad5-d1821912c9f3",
+        "FirstName": "Eyal",
+        "LastName": "Golan",
+        "Role": "Housekeeping",
+        "Salary": 10000
+      },
+      {
+        "Id": "9e811c04-cb80-4f32-8943-c9632a721eeb",
+        "FirstName": "Roi",
+        "LastName": "Barak",
+        "Role": "Accountant",
+        "Salary": 16500
+      },
+      {
+        "Id": "fc53c45f-d902-4c7c-8ba9-725dd635177f",
+        "FirstName": "Daniel",
+        "LastName": "Biton",
+        "Role": "Maintenance",
+        "Salary": 10500
+      },
+      {
+        "Id": "03caedc9-dd48-4603-8dd5-f6bd85af7bad",
+        "FirstName": "Daniel",
+        "LastName": "Sasson",
+        "Role": "Security",
+        "Salary": 10000
+      },
+      {
+        "Id": "77acf105-31c7-4148-b36e-f210dd49c6ed",
+        "FirstName": "Amit",
+        "LastName": "Gabbai",
+        "Role": "Spa Therapist",
+        "Salary": 12000
+      },
+      {
+        "Id": "d098da3d-ef8e-4357-b7bf-a062af9003a9",
+        "FirstName": "Michal",
+        "LastName": "Shimoni",
+        "Role": "Accountant",
+        "Salary": 16500
+      },
+      {
+        "Id": "fad7e608-574a-4ddc-b45d-aa3c928bc6d8",
+        "FirstName": "Shani",
+        "LastName": "Avraham",
+        "Role": "Concierge",
+        "Salary": 11500
+      }
+    ]
+  },
+  {
+    "id": "H027",
+    "HotelName": "Ramada Resort Hadera",
+    "Stars": 3.5,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 395,
+        "RoomType": "Sea View",
+        "PricePerNight": 900,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 396,
+        "RoomType": "Suite",
+        "PricePerNight": 1150,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 397,
+        "RoomType": "Sea View",
+        "PricePerNight": 1020,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 398,
+        "RoomType": "Suite",
+        "PricePerNight": 1100,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 399,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 400,
+        "RoomType": "Standard",
+        "PricePerNight": 540,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "dd607515-6d92-46a3-9792-5334fed9262f",
+        "FirstName": "Eitan",
+        "LastName": "Sasson",
+        "Role": "Spa Therapist",
+        "Salary": 11000
+      },
+      {
+        "Id": "8831cf7d-44c0-4bac-9460-df366ee57e92",
+        "FirstName": "Amit",
+        "LastName": "Sasson",
+        "Role": "Waiter",
+        "Salary": 9000
+      },
+      {
+        "Id": "66d30f52-6841-4807-ad95-dbdb86ee125e",
+        "FirstName": "Eyal",
+        "LastName": "Biton",
+        "Role": "Chef",
+        "Salary": 13500
+      },
+      {
+        "Id": "38b59d2d-cd0a-448e-8bef-ec9e298d1902",
+        "FirstName": "Tamar",
+        "LastName": "Levi",
+        "Role": "Concierge",
+        "Salary": 13000
+      },
+      {
+        "Id": "aa898256-aa1d-4f58-9869-9d78f5566d4e",
+        "FirstName": "Michal",
+        "LastName": "Azoulay",
+        "Role": "Concierge",
+        "Salary": 11500
+      },
+      {
+        "Id": "b65472b7-0523-49a2-ac88-bca7aec24d9b",
+        "FirstName": "Ofir",
+        "LastName": "Haddad",
+        "Role": "Accountant",
+        "Salary": 16500
+      }
+    ]
+  },
+  {
+    "id": "H028",
+    "HotelName": "Central Park Eilat",
+    "Stars": 5.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 174,
+        "RoomType": "Sea View",
+        "PricePerNight": 950,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 175,
+        "RoomType": "Standard",
+        "PricePerNight": 570,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 176,
+        "RoomType": "Deluxe",
+        "PricePerNight": 800,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 177,
+        "RoomType": "Family",
+        "PricePerNight": 830,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 178,
+        "RoomType": "Suite",
+        "PricePerNight": 1250,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 179,
+        "RoomType": "Garden View",
+        "PricePerNight": 640,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "23c84077-72cb-4989-8a4b-76fa5bc50312",
+        "FirstName": "Shahar",
+        "LastName": "Biton",
+        "Role": "Housekeeping",
+        "Salary": 8000
+      },
+      {
+        "Id": "f339de14-69d5-4b6d-8fb2-a96f10f95f7a",
+        "FirstName": "Shani",
+        "LastName": "Levi",
+        "Role": "Receptionist",
+        "Salary": 11000
+      },
+      {
+        "Id": "b1d1e0ab-1e38-4457-9f54-a667f0cd7e46",
+        "FirstName": "Ofir",
+        "LastName": "Davidi",
+        "Role": "Chef",
+        "Salary": 14000
+      },
+      {
+        "Id": "3e2ab364-b226-419e-9f2c-8d920d47c708",
+        "FirstName": "Noa",
+        "LastName": "Davidi",
+        "Role": "Spa Therapist",
+        "Salary": 11000
+      },
+      {
+        "Id": "087b6b2b-5d65-453a-a335-6d19baf4b8aa",
+        "FirstName": "Michal",
+        "LastName": "Haddad",
+        "Role": "Chef",
+        "Salary": 14000
+      }
+    ]
+  },
+  {
+    "id": "H029",
+    "HotelName": "Sdot Ben Gurion Hotel",
+    "Stars": 3.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 325,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 326,
+        "RoomType": "Garden View",
+        "PricePerNight": 640,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 327,
+        "RoomType": "Sea View",
+        "PricePerNight": 1050,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 328,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 329,
+        "RoomType": "Standard",
+        "PricePerNight": 570,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 330,
+        "RoomType": "Garden View",
+        "PricePerNight": 680,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 331,
+        "RoomType": "Garden View",
+        "PricePerNight": 610,
+        "Rating": 5
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "97b8da8c-bc30-4d59-9765-75167831c55b",
+        "FirstName": "Eyal",
+        "LastName": "Barak",
+        "Role": "Chef",
+        "Salary": 15000
+      },
+      {
+        "Id": "e149aa14-cfa7-4ea5-9612-120b4235f997",
+        "FirstName": "Roi",
+        "LastName": "Rafaeli",
+        "Role": "Security",
+        "Salary": 10500
+      },
+      {
+        "Id": "ca086e90-548e-4133-8d34-675bce90fe36",
+        "FirstName": "Guy",
+        "LastName": "Cohen",
+        "Role": "Accountant",
+        "Salary": 17500
+      },
+      {
+        "Id": "05cf784a-9258-4793-bc8f-a22f04edd146",
+        "FirstName": "Amit",
+        "LastName": "Suissa",
+        "Role": "Receptionist",
+        "Salary": 9500
+      },
+      {
+        "Id": "b93c4b60-60da-42e7-8c9a-c9fa66ca8a94",
+        "FirstName": "Liron",
+        "LastName": "Suissa",
+        "Role": "Manager",
+        "Salary": 23000
+      },
+      {
+        "Id": "2b2683e9-75c2-4c6d-bb6e-99671d9de358",
+        "FirstName": "Hila",
+        "LastName": "Suissa",
+        "Role": "Concierge",
+        "Salary": 12500
+      },
+      {
+        "Id": "c37e59ea-1186-4650-95e3-57a59312a5c7",
+        "FirstName": "Tamar",
+        "LastName": "Barak",
+        "Role": "Waiter",
+        "Salary": 9500
+      },
+      {
+        "Id": "e0ffb18b-f0f0-4c31-b1a4-551c6fbdc4e4",
+        "FirstName": "Daniel",
+        "LastName": "Rafaeli",
+        "Role": "Waiter",
+        "Salary": 10500
+      }
+    ]
+  },
+  {
+    "id": "H030",
+    "HotelName": "Nof Ginosar Kinneret",
+    "Stars": 3.0,
+    "HasPool": true,
+    "Rooms": [
+      {
+        "RoomNumber": 383,
+        "RoomType": "Sea View",
+        "PricePerNight": 1020,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 384,
+        "RoomType": "Suite",
+        "PricePerNight": 1220,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 385,
+        "RoomType": "Standard",
+        "PricePerNight": 500,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 386,
+        "RoomType": "Family",
+        "PricePerNight": 860,
+        "Rating": 5
+      },
+      {
+        "RoomNumber": 387,
+        "RoomType": "Deluxe",
+        "PricePerNight": 730,
+        "Rating": 4
+      },
+      {
+        "RoomNumber": 388,
+        "RoomType": "Standard",
+        "PricePerNight": 570,
+        "Rating": 3
+      },
+      {
+        "RoomNumber": 389,
+        "RoomType": "Deluxe",
+        "PricePerNight": 700,
+        "Rating": 3
+      }
+    ],
+    "Employees": [
+      {
+        "Id": "25780f61-e733-4c4d-ae98-16d3de325dcf",
+        "FirstName": "Shira",
+        "LastName": "Shimoni",
+        "Role": "Accountant",
+        "Salary": 16000
+      },
+      {
+        "Id": "57e8d089-ad3e-474d-9fc8-ba44a5d63afd",
+        "FirstName": "Maya",
+        "LastName": "BenDavid",
+        "Role": "Manager",
+        "Salary": 23000
+      },
+      {
+        "Id": "bcccad03-70a3-4eee-820f-afbec16512c0",
+        "FirstName": "Maya",
+        "LastName": "Peretz",
+        "Role": "Security",
+        "Salary": 9500
+      },
+      {
+        "Id": "82d12cda-a61b-4a9e-9c29-bf79edec2347",
+        "FirstName": "Elad",
+        "LastName": "Shimoni",
+        "Role": "Security",
+        "Salary": 10500
+      },
+      {
+        "Id": "22eda1ec-3aa4-4f5a-91b4-274fe6dc8c5f",
+        "FirstName": "Eyal",
+        "LastName": "Shimoni",
+        "Role": "Concierge",
+        "Salary": 12000
+      },
+      {
+        "Id": "ccae5f81-fb47-4f59-9788-d75b7c63f5e1",
+        "FirstName": "Elad",
+        "LastName": "Shimoni",
+        "Role": "Waiter",
+        "Salary": 8500
+      },
+      {
+        "Id": "56c84a51-8299-45c2-9cfb-3a4ccb7afe99",
+        "FirstName": "Tamar",
+        "LastName": "Davidi",
+        "Role": "Concierge",
+        "Salary": 12500
+      },
+      {
+        "Id": "9b3fd1fe-9675-4372-b22e-b366fd0435c6",
+        "FirstName": "Guy",
+        "LastName": "Raz",
+        "Role": "Manager",
+        "Salary": 22000
+      }
+    ]
+  }
+]
